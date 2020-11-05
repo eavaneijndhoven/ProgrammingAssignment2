@@ -1,5 +1,5 @@
 ## Two functions that create a special object that stores a invertible matrix 
-## and cache's its inverse.
+## and caches its inverse.
 
 ## Creates a special "matrix", caches matrix and its inverse
 
